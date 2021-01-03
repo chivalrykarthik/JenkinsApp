@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
     return res.json({ msg: "Welcome to jenkins" });
 })
 
-app.listen(300)
+app.listen(3000)
