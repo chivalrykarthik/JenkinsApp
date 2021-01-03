@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /home/ec2-user/proj/
-npm install
+echo "start"
