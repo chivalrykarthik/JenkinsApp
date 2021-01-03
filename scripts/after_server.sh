@@ -3,4 +3,4 @@ cd /home/ec2-user/proj/
 echo "Path"
 pwd
 echo "Path"
-npm start
+pm2 start server.js
